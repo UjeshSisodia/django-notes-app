@@ -1,6 +1,6 @@
 # Simple Notes App
 This is a simple notes app built with React and Django.
-
+Deployed in AWS: http://13.201.16.143:8000/
 ## Requirements
 1. Python 3.9
 2. Node.js
